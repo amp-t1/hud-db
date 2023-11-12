@@ -1,0 +1,62 @@
+{
+  "name": "NOOBPANZERhud",
+  "author": "amp-t",
+  "contributors": [
+    "hypnotize",
+    "lardox",
+    "phou"
+  ],
+  "releaseDate": "17-03-2022",
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "materials",
+    "customization"
+  ],
+  "repo": "https://github.com/amp-t1/NOOBPANZERhud",
+  "hash": "19802d0e91a2a8f2ede38519828b6322d836caac",
+  "prerelease": false,
+  "resources": [
+    "https://www.maisfontes.com/finis-text-soft-bold.font"
+  ],
+  "social": {
+    "steam_profile": "76561198124159344",
+    "steam_group": "https://steamcommunity.com/groups/NBPZINC",
+    "discord": "paolo19",
+    "youtube": "@amp-t",
+    "twitch": "ampt_panzer",
+    "album": "https://imgur.com/gallery/fULGti5"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ]
+  }
+}
